@@ -1,0 +1,14 @@
+背景：
+数据分析课上，我基于Excel导入"D:\360MoveData\Users\Administrator\Desktop\3\实验3数据.xlsx"，通过VB编程
+"D:\360MoveData\Users\Administrator\Desktop\3\实验3数据处理VB代码.txt"实现了实验结果
+"D:\360MoveData\Users\Administrator\Desktop\3\实验3结果.xlsx"的自动输出。
+基于Excel导入"D:\360MoveData\Users\Administrator\Desktop\3\实验4数据.xlsx"，通过VB编程
+"D:\360MoveData\Users\Administrator\Desktop\3\实验4数据处理VB代码.txt"实现了实验结果
+"D:\360MoveData\Users\Administrator\Desktop\3\实验4结果.xlsx"的自动输出。
+
+目的：我需要把这些代码实现的数据处理全过程可视化，输出中间的过程数据，并保留每一个过程数据的详细全面具体可手动操作计算公式、计算过程、所运用的方法说明。基于此需求，我想做一个数据处理过程可视化系统，科技风和政务风融合。
+
+
+用户提示词（step1_prompt）：
+基于以上背景和目的，请搜集全网，给出当前同类可视化系统的一般技术架构和功能配置，尽可能详细全面具体，来指导具体开发实践，输出为数据处理过程可视化系统开发技术架构与功能配置指南.md文件。 
+补充追问： 数据处理过程可视化系统开发技术架构与功能配置指南能否加入[RAG技术]实现档案数据的充分应用,将其作为AI外脑，接入本地或云端deepseek来实现优质专业内容生成或智能答疑或标准化、结构化生成有明确限定和要求的内容。

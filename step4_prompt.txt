@@ -1,0 +1,2 @@
+更新用户提示词（step4_prompt）：
+请严格基于项目实施方案、技术可行性报告、市场调研报告、UI设计模板（D:\360MoveData\Users\Administrator\Desktop\daglxt\调研与方案报告\技术可行性报告.md 、D:\360MoveData\Users\Administrator\Desktop\daglxt\调研与方案报告\市场调研报告.md 、D:\360MoveData\Users\Administrator\Desktop\daglxt\调研与方案报告\项目实施方案.md 、D:\360MoveData\Users\Administrator\Desktop\daglxt\调研与方案报告\后台管理页面预览.html、D:\360MoveData\Users\Administrator\Desktop\daglxt\调研与方案报告\前端页面预览.html），执行本项目整体开发工作，与具体实施方案有偏离的请事先和我确认后再执行。
